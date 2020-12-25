@@ -15,6 +15,5 @@
 
 #### 这个项目最初的想法来自于 高效率 QQ 机器人框架 —— Mirai ，将二者相互结合，对APP原有功能进行扩展，实现通过提取对话内容实现智能家具的控制
 
-#### Due to the short development time, only the most basic functions have been completed
 
-#### 由于开发时间较为仓促，仅完成了最基础的功能
+#### 由于开发时间较为仓促，仅完成了最基础的功能 (苦逼的高二党，实在没时间折腾
