@@ -12,8 +12,10 @@
 
 #### The idea was come from the High-performance Bot framework for Tencent QQ , the app and Mirai are combined to extend the original functions of the app to realize the control of intelligent furniture by extracting the dialogue content
 
-
 #### 这个项目最初的想法来自于 高效率 QQ 机器人框架 —— Mirai ，将二者相互结合，对APP原有功能进行扩展，实现通过提取对话内容实现智能家具的控制
+
++ 运行截图
+![主页]()
 
 #### 出于安全考虑，移除了安全图片以及AndroidManifest.xml中的Appkey,AppSecret
 
