@@ -15,9 +15,14 @@
 #### 这个项目最初的想法来自于 高效率 QQ 机器人框架 —— Mirai ，将二者相互结合，对APP原有功能进行扩展，实现通过提取对话内容实现智能家具的控制
 
 + 运行截图
-![主页](https://panyihang.top:3211/photo/Screenshot_20201228-072430.jpg)
-![关灯](https://panyihang.top:3211/photo/Screenshot_20201228-072435.jpg)
-![彩光模式](https://panyihang.top:3211/photo/Screenshot_20201228-072442.jpg)
+
+![主页](https://github.com/panyihang/SmartHome-APP/Screenshot_20201228-072430.jpg)
+
+![关灯](https://github.com/panyihang/SmartHome-APP/Screenshot_20201228-072435.jpg)
+
+![彩光模式](https://github.com/panyihang/SmartHome-APP/Screenshot_20201228-072442.jpg)
+
+
 #### 出于安全考虑，移除了安全图片以及AndroidManifest.xml中的Appkey,AppSecret
 
 #### 由于发现几个严重的bug导致app闪退，删掉了有问题的代码，仅保留了最基础的功能 (苦逼的高二党，实在没时间折腾
