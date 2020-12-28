@@ -16,11 +16,11 @@
 
 + 运行截图
 
-![主页](https://github.com/panyihang/SmartHome-APP/Screenshot_20201228-072430.jpg)
+![主页](https://github.com/panyihang/SmartHome-APP/blob/master/Screenshot_20201228-072430.jpg)
 
-![关灯](https://github.com/panyihang/SmartHome-APP/Screenshot_20201228-072435.jpg)
+![关灯](https://github.com/panyihang/SmartHome-APP/blob/master/Screenshot_20201228-072435.jpg)
 
-![彩光模式](https://github.com/panyihang/SmartHome-APP/Screenshot_20201228-072442.jpg)
+![彩光模式](https://github.com/panyihang/SmartHome-APP/blob/master/Screenshot_20201228-072442.jpg)
 
 
 #### 出于安全考虑，移除了安全图片以及AndroidManifest.xml中的Appkey,AppSecret
