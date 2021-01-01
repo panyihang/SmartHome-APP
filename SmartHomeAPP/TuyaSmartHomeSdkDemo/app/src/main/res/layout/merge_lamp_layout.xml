@@ -33,13 +33,12 @@
         android:layout_height="@dimen/wh_300"
         android:layout_below="@+id/toolbar_top_view"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="@dimen/mg_100">
+        android:layout_marginTop="@dimen/mg_120">
 
         <com.tuya.smart.android.demo.base.widget.LampView
             android:id="@+id/picker"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_centerInParent="true"
             app:lamp_height="@dimen/lamp_height"
             app:lamp_width="@dimen/lamp_width" />
 

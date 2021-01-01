@@ -3,7 +3,7 @@
     <!-- 渐变 -->
     <gradient
         android:angle="360"
-        android:endColor="#3515C4"
+        android:endColor="#3578E2"
         android:gradientRadius="1200"
         android:startColor="#35cfFc"
         android:type="radial" />
